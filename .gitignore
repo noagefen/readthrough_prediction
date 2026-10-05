@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Generated analysis outputs
+nested_cv_results/
+
+# Large local input tables
+WT25/
+data/
